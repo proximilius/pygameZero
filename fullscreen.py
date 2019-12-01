@@ -1,6 +1,12 @@
 import pygame
 
 FULL = True
+###########################################
+# This module's name is fullscreen but... #
+# there's more I also sugest my pause and #
+# exit methode in this file the reson for #
+# this i meerly advertisment :D		  #
+###########################################
 
 ###### Sugested use in parental progam
   # step 1:
